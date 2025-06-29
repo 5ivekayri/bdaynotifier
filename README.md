@@ -1,6 +1,6 @@
 # Setup #
 
-## server ##:
+## server: ##
 ```bash
   cd server
   npm install
